@@ -3,5 +3,5 @@ exports.flyNoWay = () => {
 };
 
 exports.flyWithWings = () => {
-    console.log('Hurrah, Flying with wings ! ');
+    console.log('Hurrah, Flying with wings.');
 };

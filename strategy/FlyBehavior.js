@@ -9,7 +9,7 @@ FlyBehavior.prototype.fly = function() {
     if (this.behavior) {
         return this.behavior();
     }
-    throw ('No Flying Behavior Selected');
+    throw ('No flying behavior was selected.');
 };
 
 module.exports = FlyBehavior;

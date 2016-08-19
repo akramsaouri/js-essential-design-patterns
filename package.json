@@ -1,10 +1,10 @@
 {
-  "name": "jedp",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "Akram Saouri"
+    "name": "jedp",
+    "version": "1.0.0",
+    "description": "Collection of some design patterns applied to js code.",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Akram Saouri"
 }
