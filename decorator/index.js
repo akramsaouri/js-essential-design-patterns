@@ -1,8 +1,10 @@
-// the decorator pattern ( also known as the wrapper or the adapter pattern)
-// is a design pattern that allows behavior to be added to an individual object;,
-// either statically or dyanmically, without affecting the behaviour of other objects from the same class,
+// the decorator pattern (also known as the wrapper or the adapter pattern)
+// is a design pattern that allows behavior to be added to an individual object,
+// either statically or dyanmically, without affecting the behaviour
+// of other objects from the same class,
 
-// the decorator pattern if oftern useful for dividing behaviours between entities with unique
+// the decorator pattern is oftern useful for dividing behaviours
+// between entities with unique
 // areas of concern
 
 const Coffee = require('./Coffee');
