@@ -1,6 +1,6 @@
 // The observer pattern is a design pattern in which an object,
-// called the 'subject' maintains a list of its dependents, called 'observers' and notifies
-// them automatically of any state changes
+// called the 'subject' maintains a list of its dependents, called 'observers'
+// and notifies them automatically of any state changes
 
 // the observer design pattern is mainly used in 'event handling' systems
 
